@@ -1,0 +1,33 @@
+.jumbotron {
+	color: #07d881;
+	font-family: Garamond;
+	background-image: url("Visuals/bacteria1.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding-left: 70px;
+
+}
+
+#metaPanel {
+	font-size: smaller;
+	font-family: Andale Mono, monospace;
+	background-color: #f8e89f;
+	color: #467c83;
+}
+
+#metaPanel .panel-header {
+	text-align: center;
+}
+
+#selDataset {
+	padding: 7px;
+	color: black;
+}
+
+#samplePanel {
+	font-family: Andale Mono, monospace;
+	text-align: center;
+	color: #467c83;
+	background-color: #f8e89f;
+}

@@ -1,4 +1,4 @@
-
+// GAUGE CHART IS SET UP IN THE BACTERIAPP.JS
 // function buildGauge(WFREQ) {
 //     let level = parseFloat(WFREQ) * 20;
 

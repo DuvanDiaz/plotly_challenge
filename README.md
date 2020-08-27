@@ -8,6 +8,8 @@ The analysis of the dataset shows that a small handful of microbial species (als
 
 ## Procedure
 1. Used d3.js to read the given data and create a dropdown function with the IDs of every participant of this research study. As well as the demographic infromation of the participant.
+
+
 ![readme](https://user-images.githubusercontent.com/62350232/91502467-bc92ee00-e88d-11ea-9ffb-c9f4a8989b6a.PNG)
 
 2. Bar chart displaying the top 10 OTUs found in the selected ID sample

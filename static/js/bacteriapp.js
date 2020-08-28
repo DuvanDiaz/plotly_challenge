@@ -51,17 +51,15 @@ function updateMetadata(sample) {
      height: 400,
      margin: { t: 25, r: 25, l: 25, b: 25 },
      line: {
-     color: '600000'
+     color: '400000'
      },
-     paper_bgcolor: "#a5bdc6",
+     paper_bgcolor: "#467c83",
      font: { color: "#85541d", family: "Serif" }
    };
 
   
   Plotly.newPlot("gauge", data, layout);
-// Use `Object.entries` to add each key and value pair to the metaPanel
-// Hint: Inside the loop, you will need to use d3 to append new
-// tags for each key-value in the metadata.
+
   });
 }
 
